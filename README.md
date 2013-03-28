@@ -1,9 +1,16 @@
 README
 ===
 
-### Learning about GitHub and md:
+### Learning about GitHub and md
 
-  * line one
-  * line two
+#### To compile:
+
+  * gcc -o HelloWorld -ansi Helloworld.c
+
+#### To run:
+
+  * ./HelloWorld
+
+
 
 

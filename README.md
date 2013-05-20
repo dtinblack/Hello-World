@@ -1,7 +1,7 @@
 README
 ===
 
-### Learning about GitHub and md
+### Learning about GitHub
 
 #### To compile:
 
